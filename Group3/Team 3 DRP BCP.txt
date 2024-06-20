@@ -1,0 +1,224 @@
+Starlight Gaming Support Inc.
+Disaster Recovery Plan (DRP)
+Company Overview:
+Starlight Gaming Support Inc. provides full customer support for the American gaming industry on all platforms available in the US. We offer high-quality end-to-end technical support, including public relations related to game promotion and outreach. Our services include assistance from purchasing and installing applications to troubleshooting game content errors. We provide various support options, including 24/7 live support and M-F 9-5 pm email and chat support. We have contracts with most of the largest game developers in the world. Our headquarters are in Denver, Colorado.
+
+1. Purpose and Scope
+Purpose: This Disaster Recovery Plan (DRP) outlines the processes and procedures to recover and protect the IT infrastructure, data, and business operations in the event of a disaster.
+
+Scope: This plan applies to all IT systems, applications, and data within Starlight Gaming Support Inc., including headquarters and remote operations.
+
+2. Objectives
+Ensure rapid recovery of IT systems and business operations.
+Minimize downtime and data loss.
+Maintain communication with employees, customers, and stakeholders.
+Ensure compliance with relevant regulations and contractual obligations.
+3. Key Contacts
+CEO: Chief Executive Officer
+Role: Overall decision-making and communication with stakeholders.
+COO: Chief Operating Officer
+Role: Oversee operational continuity and resource allocation.
+CFO: Chief Financial Officer
+Role: Manage financial aspects and insurance claims.
+CTO: Chief Technology Officer
+Role: Ensure IT systems and data are protected and recoverable.
+Director of IT:
+Role: Handle cybersecurity and IT infrastructure recovery.
+Disaster Recovery Team Leader:
+Role: Coordinate disaster recovery efforts and manage the recovery team.
+4. Disaster Recovery Team
+Disaster Recovery Team Leader: Coordinates the disaster recovery efforts and communicates with executive leadership.
+
+IT Recovery Team: Responsible for restoring IT systems and applications.
+
+Cybersecurity Specialists: Ensure the security of recovered systems.
+Network Engineers: Restore network connectivity and infrastructure.
+Systems Administrators: Recover servers and applications.
+Database Administrators: Restore databases and ensure data integrity.
+Communications Team: Handles internal and external communications during the recovery process.
+
+Public Relations Managers: Manage communication with the media and public.
+HR Managers: Communicate with employees and manage their needs.
+5. Risk Assessment and Impact Analysis
+Identify potential risks and their impact on IT systems and business operations:
+
+Natural Disasters: Earthquakes, floods, hurricanes.
+Cyber Attacks: Malware, ransomware, data breaches.
+Hardware Failures: Server crashes, network failures.
+Human Error: Accidental data deletion, configuration errors.
+Impact Analysis:
+
+Critical Systems: Customer support systems, CRM, ticketing systems.
+High Impact: Data loss, prolonged downtime, reputational damage.
+Medium Impact: Temporary service interruptions, minor data loss.
+Low Impact: Minimal disruptions, quickly recoverable issues.
+6. Recovery Strategies
+Data Backup and Recovery:
+
+Regular Backups: Ensure daily backups of all critical data.
+Offsite Storage: Store backups in a secure offsite location.
+Cloud Backup: Utilize cloud-based backup solutions for redundancy.
+IT Infrastructure Recovery:
+
+Redundant Systems: Implement redundant servers and network infrastructure.
+Virtualization: Use virtual machines for quick recovery and flexibility.
+Cloud Services: Utilize cloud services to host critical applications.
+Communication:
+
+Internal Communication: Use emergency communication systems to update employees.
+External Communication: Provide updates to customers and stakeholders through multiple channels.
+7. Disaster Recovery Procedures
+1. Initial Response:
+
+Activate DRP: The Disaster Recovery Team Leader activates the DRP and notifies the disaster recovery team.
+Assess Damage: Conduct an initial assessment of the damage and determine the impact on IT systems and business operations.
+Inform Key Contacts: Notify the CEO, COO, and other key contacts about the situation.
+2. Data Recovery:
+
+Restore Backups: Restore data from the latest backups stored offsite or in the cloud.
+Verify Data Integrity: Ensure the integrity and completeness of restored data.
+3. IT Infrastructure Recovery:
+
+Rebuild Servers: Rebuild and configure servers using virtual machines or cloud services.
+Network Recovery: Restore network connectivity and infrastructure.
+Application Recovery: Reinstall and configure critical applications.
+4. Communication:
+
+Employee Updates: Provide regular updates to employees on the recovery progress.
+Customer and Stakeholder Updates: Inform customers and stakeholders about the recovery status and expected service restoration times.
+5. Testing and Validation:
+
+System Testing: Test recovered systems and applications to ensure they are functioning correctly.
+User Acceptance Testing: Conduct user acceptance testing to verify that systems meet business requirements.
+6. Full Restoration:
+
+Return to Normal Operations: Once all systems are tested and validated, return to normal business operations.
+Post-Recovery Review: Conduct a post-recovery review to identify lessons learned and areas for improvement.
+8. Training and Testing
+Employee Training:
+
+Regular Training Sessions: Conduct regular training on disaster recovery procedures.
+Role-Specific Training: Provide specialized training for disaster recovery team members.
+Plan Testing:
+
+Annual Drills: Perform annual disaster recovery drills to test the effectiveness of the DRP.
+Post-Drill Reviews: Review drill outcomes and update the plan based on feedback and test results.
+9. Plan Maintenance
+Review and Update:
+
+Annual Review: Conduct an annual review of the disaster recovery plan.
+Post-Incident Review: Update the plan after any major incidents or changes in the business environment.
+Documentation:
+
+Record Keeping: Keep detailed records of all updates, training sessions, and test results.
+Access Control: Ensure the plan and all related documents are accessible to authorized personnel only.
+10. Appendices
+Appendix A: Contact List
+
+Detailed contact information for all key contacts and disaster recovery team members.
+Appendix B: Critical Systems and Applications
+
+List of all critical systems, applications, and data with recovery priorities.
+Appendix C: Backup and Recovery Logs
+
+Records of all backup and recovery activities.
+Appendix D: Disaster Recovery Drills
+
+Documentation of disaster recovery drills and outcomes.
+By implementing this Disaster Recovery Plan, Starlight Gaming Support Inc. can ensure the rapid recovery of critical IT systems and business operations, minimize downtime, and maintain high-quality customer support services in the event of a disaster.
+
+Starlight Gaming Support Inc.
+Business Continuity Plan
+Company Overview: Starlight Gaming Support Inc. provides full customer support for the American gaming industry on all platforms available in the US. We offer high-quality end-to-end technical support, including public relations related to game promotion and outreach. Our services include assistance from purchasing and installing applications to troubleshooting game content errors. We provide various support options, including 24/7 live support and M-F 9-5 pm email and chat support. We have contracts with most of the largest game developers in the world. Our headquarters are in Denver, Colorado.
+________________________________________
+1. Purpose and Scope
+Purpose: This plan outlines the procedures and responsibilities to ensure the continuity of critical business functions at Starlight Gaming Support Inc. in the event of a disruption.
+Scope: This plan applies to all employees, contractors, and systems within Starlight Gaming Support Inc., including headquarters and any remote operations.
+________________________________________
+2. Objectives
+•	Ensure the safety of all employees and visitors.
+•	Minimize downtime and economic impact.
+•	Maintain communication with customers, clients, and stakeholders.
+•	Restore critical operations as quickly as possible.
+________________________________________
+3. Key Contacts
+•	CEO: Chief Executive Officer
+o	Role: Overall decision-making and communication with stakeholders.
+•	COO: Chief Operating Officer
+o	Role: Oversee operational continuity and resource allocation.
+•	CFO: Chief Financial Officer
+o	Role: Manage financial aspects and insurance claims.
+•	CTO: Chief Technology Officer
+o	Role: Ensure IT systems and data are protected and recoverable.
+•	Director of Technical Support:
+o	Role: Coordinate technical support teams to ensure continued customer service.
+•	Director of Public Relations:
+o	Role: Manage communication with the media and public.
+•	Director of IT:
+o	Role: Handle cybersecurity and IT infrastructure recovery.
+________________________________________
+4. Business Impact Analysis
+Critical Business Functions:
+•	Technical Support Services: Essential for maintaining customer relationships and contracts.
+•	IT Infrastructure: Vital for all company operations, including technical support and internal communication.
+•	Public Relations: Crucial for maintaining company reputation and client relationships.
+•	Administrative Functions: Necessary for overall company management and employee support.
+Potential Impact:
+•	Loss of Revenue: Due to downtime or inability to support customers.
+•	Reputational Damage: From poor customer service or negative publicity.
+•	Regulatory Fines: For non-compliance with data protection regulations.
+________________________________________
+5. Risk Assessment and Mitigation
+Risk Category	Likelihood	Impact	Severity	Risk Level	Mitigation Strategies
+Network Downtime	High	High	Critical	High	Implement redundant network infrastructure, regular maintenance, and monitoring.
+Cyber Attacks	Medium	High	Critical	High	Deploy robust cybersecurity measures including firewalls, antivirus software, and employee training.
+Data Breach	Medium	High	Critical	High	Ensure strict access controls, encryption of sensitive data, and regular security audits.
+Hardware Failure	Medium	Medium	Significant	Medium	Maintain adequate hardware inventory, conduct regular maintenance, and implement backup systems.
+Communication Issues	Low	Medium	Moderate	Low	Use reliable communication tools, conduct regular testing, and provide alternative communication channels.
+Software Vulnerabilities	Medium	Medium	Significant	Medium	Keep software updated with security patches, conduct regular vulnerability assessments, and employ secure coding practices.
+Employee Turnover	Medium	Medium	Significant	Medium	Implement knowledge transfer processes, maintain comprehensive documentation, and invest in employee retention strategies.
+Training Gaps	Low	Medium	Moderate	Low	Provide continuous training and development opportunities, conduct regular assessments, and address skill gaps promptly.
+Regulatory Compliance	Medium	High	Critical	High	Stay updated with relevant regulations, conduct regular compliance audits, and maintain thorough documentation.
+________________________________________
+6. Emergency Response Procedures
+Immediate Actions:
+•	Evacuation: If necessary, evacuate the building following the established safety protocols.
+•	Contact Emergency Services: Call 911 and report the incident.
+•	Employee Accounting: Ensure all employees are accounted for and safe.
+Communication:
+•	Notify Key Contacts: Inform the CEO, COO, and other key contacts about the incident.
+•	Employee Notification: Use the emergency communication system to update employees on the situation.
+•	Customer and Client Notification: Provide updates to customers and clients through pre-established channels.
+Damage Assessment:
+•	Initial Assessment: The COO and relevant directors will assess the extent of the disruption.
+•	Report Findings: Report findings to the CEO and initiate the appropriate recovery plans.
+________________________________________
+7. Continuity Strategies
+Alternative Work Sites:
+•	Remote Work: Enable remote work capabilities for employees using VPNs and secure remote access tools.
+•	Alternate Office Locations: Identify and prepare alternate office locations if headquarters are compromised.
+Data Backup and Recovery:
+•	Regular Backups: Ensure regular backups of all critical data.
+•	Recovery Plan: Implement a data recovery plan to restore lost or compromised data quickly.
+Supplier and Partner Communication:
+•	Updated Contacts: Maintain an updated contact list for all critical suppliers and partners.
+•	Continuity Agreements: Establish continuity agreements with key suppliers and partners to ensure service delivery during disruptions.
+________________________________________
+8. Training and Testing
+Employee Training:
+•	Regular Training Sessions: Conduct regular training sessions on emergency procedures and business continuity.
+•	Role-Specific Training: Provide specialized training for key roles involved in the continuity plan.
+Plan Testing:
+•	Annual Drills: Perform annual drills to test the effectiveness of the continuity plan.
+•	Post-Drill Reviews: Review drill outcomes and update the plan based on feedback and test results.
+________________________________________
+9. Plan Maintenance
+Review and Update:
+•	Annual Review: Conduct an annual review of the business continuity plan.
+•	Post-Incident Review: Update the plan after any major business changes or disruptions.
+Documentation:
+•	Record Keeping: Keep detailed records of all updates, training sessions, and test results.
+•	Access Control: Ensure the plan and all related documents are accessible to authorized personnel only.
+________________________________________
+By proactively implementing these measures, Starlight Gaming Support Inc. can ensure the continuity of critical business functions, minimize downtime, and maintain high-quality customer support services in the event of a disruption.
+
